@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Blogcast</title>
+<link rel="alternate" type="application/rss+xml" title="Blogcast" href="feed.xml">
+<style>
+  :root { color-scheme: light dark; --fg: #16181d; --muted: #5d6472; --bg: #fbfbf9; --line: #e3e2dd; --accent: #2f5eb3; }
+  @media (prefers-color-scheme: dark) {
+    :root { --fg: #e9eaee; --muted: #9aa1b1; --bg: #14161a; --line: #2a2e36; --accent: #8fb0f0; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif; }
+  main { max-width: 46rem; margin: 0 auto; padding: 3rem 1.25rem 5rem; }
+  h1 { font-size: 1.6rem; margin: 0 0 .25rem; letter-spacing: -.01em; }
+  .sub { color: var(--muted); margin: 0 0 2rem; }
+  .sub a { color: var(--accent); }
+  article { border-top: 1px solid var(--line); padding: 1.5rem 0; }
+  article h2 { font-size: 1.1rem; margin: 0 0 .35rem; }
+  article h2 a { color: inherit; text-decoration: none; }
+  article h2 a:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: .85rem; margin: 0 0 .75rem; }
+  .excerpt { color: var(--muted); margin: 0 0 .9rem; }
+  audio { width: 100%; }
+  .empty { color: var(--muted); border-top: 1px solid var(--line); padding-top: 1.5rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Blogcast</h1>
+  <p class="sub">Blog posts read aloud. Personal, unlisted feed. &middot; <a href="feed.xml">RSS feed</a></p>
+  <article>
+    <h2><a href="https://www.seangoedecke.com/how-to-protect-yourself-from-workslop/">How to protect yourself from workslop</a></h2>
+    <p class="meta">Sean Goedecke &middot; 2026-09-02 &middot; 3:18</p>
+    <p class="excerpt">“Workslop” is when your colleagues or bosses communicate with you by pasting big chunks of AI-generated text. The core problem with workslop is that the effort…</p>
+    <audio controls preload="none" src="audio/2026-09-02-how-to-protect-yourself-from-workslop.mp3"></audio>
+  </article>
+  <article>
+    <h2><a href="https://www.seangoedecke.com/deckard/">Automatically detecting AI text in my browser</a></h2>
+    <p class="meta">2026-09-08 &middot; 6:23</p>
+    <p class="excerpt">Automated AI text detection is currently an underserved niche. The only game in town is Pangram, which does an excellent job but desperately needs more…</p>
+    <audio controls preload="none" src="audio/2026-09-08-automatically-detecting-ai-text-in-my-browser.mp3"></audio>
+  </article>
+</main>
+</body>
+</html>

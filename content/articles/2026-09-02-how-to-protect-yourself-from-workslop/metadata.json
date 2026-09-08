@@ -1,0 +1,17 @@
+{
+  "id": "sha256:6fd535c83223cae0b59605e4b6e1a46f675047722e4a737448a29f70307fedd5",
+  "slug": "2026-09-02-how-to-protect-yourself-from-workslop",
+  "source": "https://www.seangoedecke.com/how-to-protect-yourself-from-workslop/",
+  "title": "How to protect yourself from workslop",
+  "author": "Sean Goedecke",
+  "publishedAt": "2026-09-02",
+  "addedAt": "2026-09-08T03:21:12.223Z",
+  "excerpt": "“Workslop” is when your colleagues or bosses communicate with you by pasting big chunks of AI-generated text. The core problem with workslop is that the effort…",
+  "siteName": "seangoedecke.com",
+  "speechHash": "9e23bf89163e77e187418045deae92dbbafe401f4af9503acc6556be2596096b",
+  "speechUsedModel": false,
+  "voice": "say:Samantha",
+  "audio": "/audio/2026-09-02-how-to-protect-yourself-from-workslop.mp3",
+  "audioBytes": 1961021,
+  "durationSeconds": 198
+}

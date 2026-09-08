@@ -1,0 +1,28 @@
+{
+  "name": "blogcast",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Turn blog posts into a private podcast feed",
+  "scripts": {
+    "ingest": "node src/cli.ts ingest",
+    "build": "node src/cli.ts build",
+    "verify": "node src/cli.ts verify",
+    "list": "node src/cli.ts list"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.124.0",
+    "@anthropic-ai/vertex-sdk": "^0.19.7",
+    "@google-cloud/text-to-speech": "^7.0.0",
+    "@mozilla/readability": "^0.6.0",
+    "jsdom": "^26.1.0",
+    "turndown": "^7.2.0",
+    "turndown-plugin-gfm": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^24.0.0",
+    "@types/turndown": "^5.0.5",
+    "typescript": "^5.9.2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sha256:57c809145ab4c243cae62eb4467a04892643b84893b7b48ca925d56ebb6d7426",
+  "slug": "2026-09-08-automatically-detecting-ai-text-in-my-browser",
+  "source": "https://www.seangoedecke.com/deckard/",
+  "title": "Automatically detecting AI text in my browser",
+  "author": null,
+  "publishedAt": "2026-09-08",
+  "addedAt": "2026-09-08T03:06:24.070Z",
+  "excerpt": "Automated AI text detection is currently an underserved niche. The only game in town is Pangram, which does an excellent job but desperately needs more…",
+  "siteName": "seangoedecke.com",
+  "speechHash": "1864b6c062a23a9449940944f247f6bdce5ae808d4f1dc40f10f8f6643b34419",
+  "speechUsedModel": false,
+  "voice": "google:en-US-Chirp3-HD-Charon",
+  "audio": "/audio/2026-09-08-automatically-detecting-ai-text-in-my-browser.mp3",
+  "audioBytes": 3283669,
+  "durationSeconds": 383
+}

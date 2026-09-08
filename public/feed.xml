@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogcast</title>
+    <link>https://example.github.io/blogcast/</link>
+    <description>Blog posts read aloud. Personal, unlisted feed.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Sep 2026 03:43:35 GMT</lastBuildDate>
+    <generator>blogcast</generator>
+    <atom:link href="https://example.github.io/blogcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Blogcast</itunes:author>
+    <itunes:summary>Blog posts read aloud. Personal, unlisted feed.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:owner>
+      <itunes:name>Blogcast</itunes:name>
+      <itunes:email>noreply@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>How to protect yourself from workslop</title>
+      <link>https://www.seangoedecke.com/how-to-protect-yourself-from-workslop/</link>
+      <guid isPermaLink="false">blogcast:sha256:6fd535c83223cae0b59605e4b6e1a46f675047722e4a737448a29f70307fedd5</guid>
+      <pubDate>Wed, 02 Sep 2026 08:00:00 GMT</pubDate>
+      <description>By Sean Goedecke.
+
+“Workslop” is when your colleagues or bosses communicate with you by pasting big chunks of AI-generated text. The core problem with workslop is that the effort…
+
+Original: https://www.seangoedecke.com/how-to-protect-yourself-from-workslop/</description>
+      <itunes:author>Sean Goedecke</itunes:author>
+      <itunes:duration>3:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://example.github.io/blogcast/audio/2026-09-02-how-to-protect-yourself-from-workslop.mp3" length="1961021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Automatically detecting AI text in my browser</title>
+      <link>https://www.seangoedecke.com/deckard/</link>
+      <guid isPermaLink="false">blogcast:sha256:57c809145ab4c243cae62eb4467a04892643b84893b7b48ca925d56ebb6d7426</guid>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 GMT</pubDate>
+      <description>Automated AI text detection is currently an underserved niche. The only game in town is Pangram, which does an excellent job but desperately needs more…
+
+Original: https://www.seangoedecke.com/deckard/</description>
+      <itunes:author>Blogcast</itunes:author>
+      <itunes:duration>6:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://example.github.io/blogcast/audio/2026-09-08-automatically-detecting-ai-text-in-my-browser.mp3" length="3283669" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

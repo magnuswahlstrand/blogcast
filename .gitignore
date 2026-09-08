@@ -1,0 +1,7 @@
+node_modules/
+.cache/
+.env
+
+# v0 commits the MP3s so GitHub Pages can serve them. When audio moves to
+# R2/S3 (set BLOGCAST_AUDIO_BASE_URL), uncomment the next line instead.
+# public/audio/

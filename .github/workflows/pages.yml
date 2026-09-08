@@ -1,0 +1,46 @@
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      # Rebuild feed.xml and index.html from content/ so the committed site can
+      # never drift from the committed articles. Audio is not regenerated.
+      - run: pnpm build
+        env:
+          BLOGCAST_SITE_URL: ${{ vars.BLOGCAST_SITE_URL }}
+          BLOGCAST_AUDIO_BASE_URL: ${{ vars.BLOGCAST_AUDIO_BASE_URL }}
+          BLOGCAST_FEED_TITLE: ${{ vars.BLOGCAST_FEED_TITLE }}
+          BLOGCAST_FEED_AUTHOR: ${{ vars.BLOGCAST_FEED_AUTHOR }}
+          BLOGCAST_FEED_EMAIL: ${{ vars.BLOGCAST_FEED_EMAIL }}
+      - run: pnpm verify
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v4
