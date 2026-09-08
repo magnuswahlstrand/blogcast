@@ -5,19 +5,18 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogcast</title>
-    <link>https://example.github.io/blogcast/</link>
+    <link>https://magnuswahlstrand.github.io/blogcast/</link>
     <description>Blog posts read aloud. Personal, unlisted feed.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:15:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:23:07 GMT</lastBuildDate>
     <generator>blogcast</generator>
-    <atom:link href="https://example.github.io/blogcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://magnuswahlstrand.github.io/blogcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Blogcast</itunes:author>
     <itunes:summary>Blog posts read aloud. Personal, unlisted feed.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <itunes:owner>
       <itunes:name>Blogcast</itunes:name>
-      <itunes:email>noreply@example.com</itunes:email>
     </itunes:owner>
     <item>
       <title>AI text watermarking is not a big deal</title>
@@ -30,7 +29,7 @@ Original: https://www.seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/</
       <itunes:author>Blogcast</itunes:author>
       <itunes:duration>8:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://example.github.io/blogcast/audio/2026-08-16-ai-text-watermarking-is-not-a-big-deal.mp3" length="4328350" type="audio/mpeg"/>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2026-08-16-ai-text-watermarking-is-not-a-big-deal.mp3" length="4328350" type="audio/mpeg"/>
     </item>
     <item>
       <title>Help peer</title>
@@ -43,7 +42,7 @@ Original: https://www.seangoedecke.com/help-peer/</description>
       <itunes:author>Blogcast</itunes:author>
       <itunes:duration>11:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://example.github.io/blogcast/audio/2026-08-18-help-peer.mp3" length="6171710" type="audio/mpeg"/>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2026-08-18-help-peer.mp3" length="6171710" type="audio/mpeg"/>
     </item>
     <item>
       <title>Good writing is obvious, not original</title>
@@ -56,7 +55,7 @@ Original: https://www.seangoedecke.com/good-writing-is-obvious-not-original/</de
       <itunes:author>Blogcast</itunes:author>
       <itunes:duration>5:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://example.github.io/blogcast/audio/2026-08-19-good-writing-is-obvious-not-original.mp3" length="2716725" type="audio/mpeg"/>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2026-08-19-good-writing-is-obvious-not-original.mp3" length="2716725" type="audio/mpeg"/>
     </item>
     <item>
       <title>You should never be angry at work</title>
@@ -69,7 +68,7 @@ Original: https://www.seangoedecke.com/you-should-never-be-angry-at-work/</descr
       <itunes:author>Blogcast</itunes:author>
       <itunes:duration>9:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://example.github.io/blogcast/audio/2026-08-22-you-should-never-be-angry-at-work.mp3" length="4679630" type="audio/mpeg"/>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2026-08-22-you-should-never-be-angry-at-work.mp3" length="4679630" type="audio/mpeg"/>
     </item>
     <item>
       <title>Selling out</title>
@@ -82,7 +81,7 @@ Original: https://www.seangoedecke.com/selling-out/</description>
       <itunes:author>Blogcast</itunes:author>
       <itunes:duration>21:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://example.github.io/blogcast/audio/2026-08-28-selling-out.mp3" length="10941934" type="audio/mpeg"/>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2026-08-28-selling-out.mp3" length="10941934" type="audio/mpeg"/>
     </item>
     <item>
       <title>You have to beat the models at something</title>
@@ -95,7 +94,7 @@ Original: https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/
       <itunes:author>Blogcast</itunes:author>
       <itunes:duration>9:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://example.github.io/blogcast/audio/2026-08-30-you-have-to-beat-the-models-at-something.mp3" length="5079852" type="audio/mpeg"/>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2026-08-30-you-have-to-beat-the-models-at-something.mp3" length="5079852" type="audio/mpeg"/>
     </item>
     <item>
       <title>Radical responsibility means treating people like tools</title>
@@ -108,7 +107,7 @@ Original: https://www.seangoedecke.com/radical-responsibility-means-treating-peo
       <itunes:author>Blogcast</itunes:author>
       <itunes:duration>2:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://example.github.io/blogcast/audio/2026-09-04-radical-responsibility-means-treating-people-like-tools.mp3" length="1360556" type="audio/mpeg"/>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2026-09-04-radical-responsibility-means-treating-people-like-tools.mp3" length="1360556" type="audio/mpeg"/>
     </item>
     <item>
       <title>How to protect yourself from workslop</title>
@@ -123,7 +122,7 @@ Original: https://www.seangoedecke.com/how-to-protect-yourself-from-workslop/</d
       <itunes:author>Sean Goedecke</itunes:author>
       <itunes:duration>3:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://example.github.io/blogcast/audio/2026-09-02-how-to-protect-yourself-from-workslop.mp3" length="1961021" type="audio/mpeg"/>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2026-09-02-how-to-protect-yourself-from-workslop.mp3" length="1961021" type="audio/mpeg"/>
     </item>
     <item>
       <title>Automatically detecting AI text in my browser</title>
@@ -136,7 +135,7 @@ Original: https://www.seangoedecke.com/deckard/</description>
       <itunes:author>Blogcast</itunes:author>
       <itunes:duration>6:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://example.github.io/blogcast/audio/2026-09-08-automatically-detecting-ai-text-in-my-browser.mp3" length="3283669" type="audio/mpeg"/>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2026-09-08-automatically-detecting-ai-text-in-my-browser.mp3" length="3283669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

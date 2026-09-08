@@ -27,7 +27,6 @@ export async function generateFeed(articles: ArticleMeta[]): Promise<string> {
     <itunes:block>Yes</itunes:block>
     <itunes:owner>
       <itunes:name>${esc(FEED.author)}</itunes:name>
-      <itunes:email>${esc(FEED.email)}</itunes:email>
     </itunes:owner>
 ${items}
   </channel>

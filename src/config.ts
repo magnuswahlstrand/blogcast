@@ -14,7 +14,7 @@ export const CHUNK_CACHE_DIR = path.join(ROOT, ".cache", "audio");
  * so this is the one value that must be right before you publish.
  */
 export const SITE_URL = (
-  process.env.BLOGCAST_SITE_URL ?? "https://example.github.io/blogcast"
+  process.env.BLOGCAST_SITE_URL ?? "https://magnuswahlstrand.github.io/blogcast"
 ).replace(/\/+$/, "");
 
 /**
@@ -46,7 +46,8 @@ export const TTS = {
   model: process.env.BLOGCAST_TTS_MODEL ?? "",
 };
 
-export const SPEECH_MODEL = process.env.BLOGCAST_SPEECH_MODEL ?? "claude-opus-5";
+export const SPEECH_MODEL =
+  process.env.BLOGCAST_SPEECH_MODEL ?? "claude-opus-5";
 
 /** Target size of one TTS chunk, in characters (~2-4 minutes of audio). */
 export const CHUNK_TARGET_CHARS = Number(
