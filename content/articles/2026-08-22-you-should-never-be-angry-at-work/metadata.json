@@ -1,0 +1,17 @@
+{
+  "id": "sha256:e9b14a812ac0f3dc90e588b4cffc4303cade0eaf171194a1e17b48756465844e",
+  "slug": "2026-08-22-you-should-never-be-angry-at-work",
+  "source": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+  "title": "You should never be angry at work",
+  "author": null,
+  "publishedAt": "2026-08-22",
+  "addedAt": "2026-09-08T04:13:09.325Z",
+  "excerpt": "I try not to give a lot of prescriptive advice about working in tech companies. There are many ways to be successful, and every company works differently. If…",
+  "siteName": "seangoedecke.com",
+  "speechHash": "c04193aa2fb77f3563df7cc69fc7de9b077db0502d9ce24446f48168bbd605fb",
+  "speechUsedModel": false,
+  "voice": "google:en-US-Chirp3-HD-Charon",
+  "audio": "/audio/2026-08-22-you-should-never-be-angry-at-work.mp3",
+  "audioBytes": 4679630,
+  "durationSeconds": 548
+}

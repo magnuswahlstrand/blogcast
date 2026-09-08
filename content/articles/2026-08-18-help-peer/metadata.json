@@ -1,0 +1,17 @@
+{
+  "id": "sha256:7e79605475983bb602f2634cebec68eb023fbfb5a7b1103dfc0b3c6676afff7c",
+  "slug": "2026-08-18-help-peer",
+  "source": "https://www.seangoedecke.com/help-peer/",
+  "title": "Help peer",
+  "author": null,
+  "publishedAt": "2026-08-18",
+  "addedAt": "2026-09-08T04:14:43.777Z",
+  "excerpt": "One of the most influential 20th century pieces of writing about AI is Isaac Asimov’s The Last Question. Although there are many humans in the story, the…",
+  "siteName": "seangoedecke.com",
+  "speechHash": "958e7717c4e1a447fa1d959ecc776bf5d0cacde217f795caa5234c7cc47bfd08",
+  "speechUsedModel": false,
+  "voice": "google:en-US-Chirp3-HD-Charon",
+  "audio": "/audio/2026-08-18-help-peer.mp3",
+  "audioBytes": 6171710,
+  "durationSeconds": 712
+}

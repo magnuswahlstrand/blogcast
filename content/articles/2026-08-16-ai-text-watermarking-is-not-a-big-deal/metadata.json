@@ -1,0 +1,17 @@
+{
+  "id": "sha256:2729a264746e2e5c95156870883aaa155835f116f360775fe886a7fde5851262",
+  "slug": "2026-08-16-ai-text-watermarking-is-not-a-big-deal",
+  "source": "https://www.seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/",
+  "title": "AI text watermarking is not a big deal",
+  "author": null,
+  "publishedAt": "2026-08-16",
+  "addedAt": "2026-09-08T04:15:31.603Z",
+  "excerpt": "People are pretty unhappy about Anthropic’s recent announcement that they’re planning to include a hidden watermark in Claude model outputs. Will this lead to a…",
+  "siteName": "seangoedecke.com",
+  "speechHash": "dcf1a8b294cfea0975c42e46c3ba3b3a761fe03f2a04ce70ed7b7dba9646bf48",
+  "speechUsedModel": false,
+  "voice": "google:en-US-Chirp3-HD-Charon",
+  "audio": "/audio/2026-08-16-ai-text-watermarking-is-not-a-big-deal.mp3",
+  "audioBytes": 4328350,
+  "durationSeconds": 498
+}
