@@ -1,0 +1,17 @@
+{
+  "id": "sha256:68a1c6eacb3e364c9b98a5fdd5a8a23088c8612633be4959e5e46469f1a42256",
+  "slug": "2026-08-30-you-have-to-beat-the-models-at-something",
+  "source": "https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/",
+  "title": "You have to beat the models at something",
+  "author": null,
+  "publishedAt": "2026-08-30",
+  "addedAt": "2026-09-08T04:09:54.013Z",
+  "excerpt": "In 2025, I wrote that software engineers ought to be assessed by “value over replacement”: not how much money they made for their company, but how much they…",
+  "siteName": "seangoedecke.com",
+  "speechHash": "5b60a505b11a261e9db0d8552b19eba00d8424230e372e471ef34701df00f2e3",
+  "speechUsedModel": false,
+  "voice": "google:en-US-Chirp3-HD-Charon",
+  "audio": "/audio/2026-08-30-you-have-to-beat-the-models-at-something.mp3",
+  "audioBytes": 5079852,
+  "durationSeconds": 589
+}
