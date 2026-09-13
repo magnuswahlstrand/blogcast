@@ -1,0 +1,17 @@
+{
+  "id": "sha256:2d2bd5e41fe351531ae0aa1142d9a2e67db313317149929148400c2053dff2fb",
+  "slug": "2026-09-12-don-t-build-tools-for-ai-agents",
+  "source": "https://www.seangoedecke.com/dont-build-tools-for-ai-agents/",
+  "title": "Don't build tools for AI agents",
+  "author": null,
+  "publishedAt": "2026-09-12",
+  "addedAt": "2026-09-13T14:55:12.726Z",
+  "excerpt": "Lots of people are making the case that we should stop building software for human users and start building it for AI agents. This kind of makes sense. For…",
+  "siteName": "seangoedecke.com",
+  "speechHash": "135f8a60d5c665b065a0142c02973165cdcf6337469b73c25f80ea8f2ad8a903",
+  "speechUsedModel": false,
+  "voice": "say:Samantha",
+  "audio": "/audio/2026-09-12-don-t-build-tools-for-ai-agents.mp3",
+  "audioBytes": 2356179,
+  "durationSeconds": 237
+}

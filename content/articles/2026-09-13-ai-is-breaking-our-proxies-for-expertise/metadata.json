@@ -1,0 +1,17 @@
+{
+  "id": "sha256:ca188f0cd6d5dd250904bca41b2e65df7596d19026930bbf310a1fbc5ac56241",
+  "slug": "2026-09-13-ai-is-breaking-our-proxies-for-expertise",
+  "source": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+  "title": "AI is breaking our proxies for expertise",
+  "author": null,
+  "publishedAt": "2026-09-13",
+  "addedAt": "2026-09-13T14:54:29.336Z",
+  "excerpt": "Mathematicians are broadly not anti-AI. They’re more culturally open to using AI as a tool than, say, artists or writers. However, now that more and more…",
+  "siteName": "seangoedecke.com",
+  "speechHash": "bc978bf8c14bea0ebbfc7c7a5541f413b68f84ef8bb3fc9d8eb27205b92a3a4e",
+  "speechUsedModel": false,
+  "voice": "say:Samantha",
+  "audio": "/audio/2026-09-13-ai-is-breaking-our-proxies-for-expertise.mp3",
+  "audioBytes": 5742652,
+  "durationSeconds": 578
+}

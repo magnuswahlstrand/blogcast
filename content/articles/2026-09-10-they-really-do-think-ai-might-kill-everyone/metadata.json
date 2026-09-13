@@ -1,0 +1,17 @@
+{
+  "id": "sha256:3836f45870d6d2518fda0bcd0ebc5e847b8b1a8403750a6f8221de94aef83384",
+  "slug": "2026-09-10-they-really-do-think-ai-might-kill-everyone",
+  "source": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/",
+  "title": "They really do think AI might kill everyone",
+  "author": null,
+  "publishedAt": "2026-09-10",
+  "addedAt": "2026-09-13T14:55:38.721Z",
+  "excerpt": "A recent resignation tweet from an Anthropic researcher has everyone talking about the AI apocalypse again. Among other things, he said: The people building AI…",
+  "siteName": "seangoedecke.com",
+  "speechHash": "3035449f926d7001e5dd9a8095426bc9e27b1bc8a261232bf8bcacb80945957d",
+  "speechUsedModel": false,
+  "voice": "say:Samantha",
+  "audio": "/audio/2026-09-10-they-really-do-think-ai-might-kill-everyone.mp3",
+  "audioBytes": 5713151,
+  "durationSeconds": 578
+}
