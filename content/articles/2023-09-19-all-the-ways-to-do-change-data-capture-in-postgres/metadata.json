@@ -1,0 +1,17 @@
+{
+  "id": "sha256:6a649221e8a68c6ef1a0bdc1db89377b7e18861d4bf72d7b45fae2cea13cab8e",
+  "slug": "2023-09-19-all-the-ways-to-do-change-data-capture-in-postgres",
+  "source": "https://blog.sequinstream.com/all-the-ways-to-capture-changes-in-postgres/",
+  "title": "All the ways to do change data capture in Postgres",
+  "author": "Anthony Accomazzo",
+  "publishedAt": "2023-09-19",
+  "addedAt": "2026-09-16T18:58:42.866Z",
+  "excerpt": "Discover all the options for change data capture (CDC) in Postgres––and which is best for your use case.",
+  "siteName": "Sequin blog",
+  "speechHash": "e5f028f594df67b440e9eb1e6db1848e47e708269e1f3775c363b13ceee985a4",
+  "speechUsedModel": false,
+  "voice": "say:Samantha",
+  "audio": "/audio/2023-09-19-all-the-ways-to-do-change-data-capture-in-postgres.mp3",
+  "audioBytes": 7490960,
+  "durationSeconds": 758
+}

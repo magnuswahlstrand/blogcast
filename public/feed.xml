@@ -8,7 +8,7 @@
     <link>https://magnuswahlstrand.github.io/blogcast/</link>
     <description>Blog posts read aloud. Personal, unlisted feed.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 14:55:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:58:42 GMT</lastBuildDate>
     <generator>blogcast</generator>
     <atom:link href="https://magnuswahlstrand.github.io/blogcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Blogcast</itunes:author>
@@ -18,6 +18,21 @@
     <itunes:owner>
       <itunes:name>Blogcast</itunes:name>
     </itunes:owner>
+    <item>
+      <title>All the ways to do change data capture in Postgres</title>
+      <link>https://blog.sequinstream.com/all-the-ways-to-capture-changes-in-postgres/</link>
+      <guid isPermaLink="false">blogcast:sha256:6a649221e8a68c6ef1a0bdc1db89377b7e18861d4bf72d7b45fae2cea13cab8e</guid>
+      <pubDate>Tue, 19 Sep 2023 08:00:00 GMT</pubDate>
+      <description>By Anthony Accomazzo.
+
+Discover all the options for change data capture (CDC) in Postgres––and which is best for your use case.
+
+Original: https://blog.sequinstream.com/all-the-ways-to-capture-changes-in-postgres/</description>
+      <itunes:author>Anthony Accomazzo</itunes:author>
+      <itunes:duration>12:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2023-09-19-all-the-ways-to-do-change-data-capture-in-postgres.mp3" length="7490960" type="audio/mpeg"/>
+    </item>
     <item>
       <title>They really do think AI might kill everyone</title>
       <link>https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/</link>
