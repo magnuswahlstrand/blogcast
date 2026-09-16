@@ -1,0 +1,17 @@
+{
+  "id": "sha256:85d205ab7f0264cef2882fc625dc9a2f74cace3c6f46fb8f75730863d4c56ce5",
+  "slug": "2026-09-16-the-second-wave-of-the-api-first-economy",
+  "source": "https://brandur.org/second-wave-api-first",
+  "title": "The Second Wave of the API-first Economy",
+  "author": "Brandur Leach",
+  "publishedAt": null,
+  "addedAt": "2026-09-16T19:07:56.864Z",
+  "excerpt": "APIs were meant to make the web programmable and interoperable. A combination of revenue chasing, security concern, and abuse reversed the trend for a decade as walls went up instead of down. Today, LLMs are changing the equation. People want agents that act on their behalf, and the services that ship APIs will have a decisive edge over those that don&rsquo;t.",
+  "siteName": "brandur.org",
+  "speechHash": "715044dce70111cbb73667bf63e7a00abd82d96219e2a82315e07f52222652b4",
+  "speechUsedModel": false,
+  "voice": "say:Samantha",
+  "audio": "/audio/2026-09-16-the-second-wave-of-the-api-first-economy.mp3",
+  "audioBytes": 7896615,
+  "durationSeconds": 796
+}

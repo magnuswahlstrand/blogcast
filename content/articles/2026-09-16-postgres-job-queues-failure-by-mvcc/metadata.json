@@ -1,0 +1,17 @@
+{
+  "id": "sha256:14af05cf57e536879ea77cd1ea487c38f2ae464074666c5a6d2b37f6f3d4b289",
+  "slug": "2026-09-16-postgres-job-queues-failure-by-mvcc",
+  "source": "https://brandur.org/postgres-queues",
+  "title": "Postgres Job Queues & Failure By MVCC",
+  "author": "Brandur Leach",
+  "publishedAt": null,
+  "addedAt": "2026-09-16T19:04:41.499Z",
+  "excerpt": "How Postgres&rsquo; concurrency model coupled with long-lived transactions can degrade the performance of indexes on hot tables in your database.",
+  "siteName": "brandur.org",
+  "speechHash": "517d63cc9556357e27cd393211590f86892f5f3459846ec79ff14abaf4497aee",
+  "speechUsedModel": false,
+  "voice": "say:Samantha",
+  "audio": "/audio/2026-09-16-postgres-job-queues-failure-by-mvcc.mp3",
+  "audioBytes": 11149108,
+  "durationSeconds": 1122
+}

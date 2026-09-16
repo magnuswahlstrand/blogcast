@@ -1,0 +1,17 @@
+{
+  "id": "sha256:d1119878d94211844fcb2ad019fc7c002243e48c9dbb1a042542b2a8e68783de",
+  "slug": "2026-09-16-the-minimum-viable-unit-of-saleable-software",
+  "source": "https://brandur.org/minimum-viable-unit",
+  "title": "The Minimum Viable Unit of Saleable Software",
+  "author": "Brandur Leach",
+  "publishedAt": null,
+  "addedAt": "2026-09-16T19:05:15.898Z",
+  "excerpt": "LLMs made software cheaper to build, but not free. A look at the new buy-vs-build math of the LLM age, and the pricing zone where small software businesses can still survive.",
+  "siteName": "brandur.org",
+  "speechHash": "b31c34db7b93383a1ea2a357dd9d2c54c007c3d640e87cdd471058f29ea2248b",
+  "speechUsedModel": false,
+  "voice": "say:Samantha",
+  "audio": "/audio/2026-09-16-the-minimum-viable-unit-of-saleable-software.mp3",
+  "audioBytes": 5226336,
+  "durationSeconds": 527
+}

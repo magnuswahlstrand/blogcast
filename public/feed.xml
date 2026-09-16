@@ -8,7 +8,7 @@
     <link>https://magnuswahlstrand.github.io/blogcast/</link>
     <description>Blog posts read aloud. Personal, unlisted feed.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:58:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:07:56 GMT</lastBuildDate>
     <generator>blogcast</generator>
     <atom:link href="https://magnuswahlstrand.github.io/blogcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Blogcast</itunes:author>
@@ -18,6 +18,51 @@
     <itunes:owner>
       <itunes:name>Blogcast</itunes:name>
     </itunes:owner>
+    <item>
+      <title>The Second Wave of the API-first Economy</title>
+      <link>https://brandur.org/second-wave-api-first</link>
+      <guid isPermaLink="false">blogcast:sha256:85d205ab7f0264cef2882fc625dc9a2f74cace3c6f46fb8f75730863d4c56ce5</guid>
+      <pubDate>Wed, 16 Sep 2026 19:07:56 GMT</pubDate>
+      <description>By Brandur Leach.
+
+APIs were meant to make the web programmable and interoperable. A combination of revenue chasing, security concern, and abuse reversed the trend for a decade as walls went up instead of down. Today, LLMs are changing the equation. People want agents that act on their behalf, and the services that ship APIs will have a decisive edge over those that don&amp;rsquo;t.
+
+Original: https://brandur.org/second-wave-api-first</description>
+      <itunes:author>Brandur Leach</itunes:author>
+      <itunes:duration>13:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2026-09-16-the-second-wave-of-the-api-first-economy.mp3" length="7896615" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Minimum Viable Unit of Saleable Software</title>
+      <link>https://brandur.org/minimum-viable-unit</link>
+      <guid isPermaLink="false">blogcast:sha256:d1119878d94211844fcb2ad019fc7c002243e48c9dbb1a042542b2a8e68783de</guid>
+      <pubDate>Wed, 16 Sep 2026 19:05:15 GMT</pubDate>
+      <description>By Brandur Leach.
+
+LLMs made software cheaper to build, but not free. A look at the new buy-vs-build math of the LLM age, and the pricing zone where small software businesses can still survive.
+
+Original: https://brandur.org/minimum-viable-unit</description>
+      <itunes:author>Brandur Leach</itunes:author>
+      <itunes:duration>8:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2026-09-16-the-minimum-viable-unit-of-saleable-software.mp3" length="5226336" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Postgres Job Queues &amp; Failure By MVCC</title>
+      <link>https://brandur.org/postgres-queues</link>
+      <guid isPermaLink="false">blogcast:sha256:14af05cf57e536879ea77cd1ea487c38f2ae464074666c5a6d2b37f6f3d4b289</guid>
+      <pubDate>Wed, 16 Sep 2026 19:04:41 GMT</pubDate>
+      <description>By Brandur Leach.
+
+How Postgres&amp;rsquo; concurrency model coupled with long-lived transactions can degrade the performance of indexes on hot tables in your database.
+
+Original: https://brandur.org/postgres-queues</description>
+      <itunes:author>Brandur Leach</itunes:author>
+      <itunes:duration>18:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://magnuswahlstrand.github.io/blogcast/audio/2026-09-16-postgres-job-queues-failure-by-mvcc.mp3" length="11149108" type="audio/mpeg"/>
+    </item>
     <item>
       <title>All the ways to do change data capture in Postgres</title>
       <link>https://blog.sequinstream.com/all-the-ways-to-capture-changes-in-postgres/</link>
